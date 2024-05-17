@@ -18,6 +18,7 @@ return new class extends Migration
             $table->timestamps();
         });
     }
+    // you are here -> https://bootcamp.laravel.com/inertia/showing-chirps#retrieving-the-chirps
 
     /**
      * Reverse the migrations.
